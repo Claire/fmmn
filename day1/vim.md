@@ -485,4 +485,13 @@ run the command every time you log in.
 You can also use ctrl+`]` to get out of insert mode.
 
 ---
+# Undo
+u : undo last change (can be repeated)
+
+---
+# Redo
+CTRL-R - Undo one change.
+
+---
 # EOF
+
