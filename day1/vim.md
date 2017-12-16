@@ -225,6 +225,14 @@ Try `:q!` to quit without saving.
 In insert mode, the arrow keys do work, but you
 should practice not using them!
 
+```
+Basic motion commands:
+
+        k              
+      h   l          
+        j  
+
+```
 Instead, in command mode:
 
 * h - moves left one character
