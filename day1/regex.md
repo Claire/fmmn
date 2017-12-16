@@ -266,3 +266,9 @@ var str = 'hey <cool> whatever'
 console.log(str.replace(/<([^]+)>/,'MATHEMATICAL'))
 ```
 
+---
+# regex doc
+
+to see good doc on regex use
+
+`perldoc perlreref`
